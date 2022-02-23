@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Match The Next Item</string>
+    <string name="txtPrincipal">¡Encontremos los artículos con más match para tus clientes!</string>
+    <string name="txtUsuario">¡Ayúdanos a identificar a tu cliente!</string>
+    <string name="plainUsuario">Name</string>
+    <string name="txtProductos">Ahora selecciona sus productos de compra anteriores: </string>
+    <string name="button">¡Encontremos su match!</string>
+    <string name="txtMensaje">Mensaje emergente</string>
+</resources>
